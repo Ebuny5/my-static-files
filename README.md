@@ -1,9 +1,9 @@
  Beyond Sweat Foundation – Static Website
 
-This repository hosts the **static files (HTML, CSS, JS)** for the Beyond Sweat Foundation's official website.  
-The site aims to raise awareness about **Hyperhidrosis** and support individuals living with excessive sweating.
+This repository hosts the static files (HTML, CSS, JS) for the Beyond Sweat Foundation's official website.  
+The site aims to raise awareness about Hyperhidrosis and support individuals living with excessive sweating.
 
-🔗 Live Site: [https://yourusername.github.io/beyond-sweat](https://Ebuny5.github.io/beyond-sweat)  
+🔗 Live Site: [https://Ebuny5.github.io/beyond-sweat](https://Ebuny5.github.io/beyond-sweat)  
 🌐 Foundation Site: [https://beyondsweat.life](https://beyondsweat.life)
 
 
