@@ -1,25 +1,40 @@
-# My Static Files
+ Beyond Sweat Foundation – Static Website
 
-This repository contains static files for my project. These files may include HTML, CSS, JavaScript, images, and other assets needed for the website or application.
+This repository hosts the **static files (HTML, CSS, JS)** for the Beyond Sweat Foundation's official website.  
+The site aims to raise awareness about **Hyperhidrosis** and support individuals living with excessive sweating.
 
-## Structure
+🔗 Live Site: [https://yourusername.github.io/beyond-sweat](https://yourusername.github.io/beyond-sweat)  
+🌐 Foundation Site: [https://beyondsweat.life](https://beyondsweat.life)
 
-- `index.html` – Main HTML file
-- `css/` – Stylesheets
-- `js/` – JavaScript files
-- `images/` – Image assets
-- `...` – Any other folders or files
 
-## Usage
+ About
 
-1. Clone or download this repository.
-2. Open `index.html` in your browser to view the website.
-3. You can edit the files as needed to customize your site.
+The website includes:
 
-## How to Contribute
+- Responsive landing page
+- About section for the foundation
+- Hyperhidrosis education
+- WhatsApp support community link
+- App and YouTube campaign links
 
-Feel free to fork this repository and submit pull requests if you have improvements or suggestions.
+Technologies Used
 
-## License
+- HTML5
+- CSS3 (Custom & Bootstrap)
+- JavaScript (Vanilla or minimal libraries)
 
-This project is open source and available under the [MIT License](LICENSE).
+🤝 Contributing
+
+If you'd like to contribute to the design, accessibility, or SEO of this page, please read the [CONTRIBUTING.md](./CONTRIBUTING.md) file.
+
+License
+
+All website content is protected under the [CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
+Please **do not copy, modify, or reuse** any assets, content, or code without written permission.
+
+© 2025 Gifty Aruwajoye — Beyond Sweat Foundation
+
+
+
+![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
+
